@@ -24,4 +24,7 @@
 #Projects
 ## QR Code
 * Developed a simple application for producing QR codes.
-[QR Code](https://github.com/jrshs79/OA3801_EC2_QR.git)
+* [QR Code](https://github.com/jrshs79/OA3801_EC2_QR.git)
+
+*Explainable Reinforcement Learning (NPS Field Robotics Lab)
+*[XRL](https://github.com/Field-Robotics-Lab/XRL_IsaacLab.git)
