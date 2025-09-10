@@ -19,4 +19,9 @@
 ## 2-2 SBCT, Joint Base Lewis-McChord (JBLM)
 ## _(August 2021 - June 2024)_
 
-* Served as a Troop commander for both A TRP and HHT, 8-1 CAV, 2-2 SBCT
+* Served as a Troop commander for A TRP and HHT, 8-1 CAV, 2-2 SBCT
+
+#Projects
+## QR Code
+* Developed a simple application for producing QR codes.
+[QR Code](https://github.com/jrshs79/OA3801_EC2_QR.git)
