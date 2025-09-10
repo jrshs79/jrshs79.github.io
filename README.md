@@ -26,6 +26,6 @@
 * Developed a simple application for producing QR codes.
 * [QR Code](https://github.com/jrshs79/OA3801_EC2_QR.git)
 
-##Explainable Reinforcement Learning (NPS Field Robotics Lab)
+## Explainable Reinforcement Learning (NPS Field Robotics Lab)
 * Working with the NPS Field robotics Lab to implement Explainable Reinforcement Learning Algorithms in a virtual environment.
-*[XRL](https://github.com/Field-Robotics-Lab/XRL_IsaacLab.git)
+* [XRL](https://github.com/Field-Robotics-Lab/XRL_IsaacLab.git)
