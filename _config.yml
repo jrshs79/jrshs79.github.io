@@ -3,6 +3,3 @@ description: Acquisitions Officer
 logo: images/Rogers_John.jpg
 show_downloads: no
 theme: jekyll-theme-minimal
-markdown: kramdown
-kramdown:
-  input: GFM
