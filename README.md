@@ -3,9 +3,17 @@
 * __Phone:__ (347) 241-0012
 
 # Eductaion
-|          Degree            |              Institution             |
-| -------------------------- | ------------------------------------ |
-| BS, Mechanical Engineering | United States Military Academy, 2017 |
+
+<table>
+  <tr>
+    <th> Degree </th>
+    <th> Institution </th>
+  </tr>
+  <tr>
+    <td> BS, Mechanical Engineering </td>
+    <td> The United States Military Academy, 2017 </td>
+  </tr>
+</table>
 
 # Work Experience (Previous Assignments)
 
