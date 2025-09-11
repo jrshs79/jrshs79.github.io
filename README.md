@@ -21,7 +21,7 @@
 
 * Served as a Troop commander for A TRP and HHT, 8-1 CAV, 2-2 SBCT
 
-#Projects
+# Projects
 ## QR Code
 * Developed a simple application for producing QR codes.
 * [QR Code](https://github.com/jrshs79/OA3801_EC2_QR.git)
