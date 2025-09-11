@@ -4,7 +4,7 @@
 
 # Eductaion
 |          Degree            |              Institution             |
-|----------------------------|--------------------------------------|
+| -------------------------- | ------------------------------------ |
 | BS, Mechanical Engineering | United States Military Academy, 2017 |
 
 # Work Experience (Previous Assignments)
